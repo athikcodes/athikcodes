@@ -11,11 +11,11 @@
 
 ##  About Me
 
-- 🌱 I’m currently learning **Next.js & Stripe Integration**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **athik.codes@gmail.com**
+I’m a passionate frontend developer focused on building responsive, accessible, and modern web applications. I enjoy turning complex problems into elegant solutions using tools like React and Tailwind CSS.
 
----
+- 🌱 Currently exploring **Next.js** and **Stripe payment integration**
+- 🤝 Eager to collaborate on meaningful **open-source projects**
+- 📫 Let's connect: **athik.codes@gmail.com**
 
 ##  My Skills
 
