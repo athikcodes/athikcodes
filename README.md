@@ -11,7 +11,6 @@
 
 ##  About Me
 
-- 🔭 I’m currently working on a **Tourism Web App**
 - 🌱 I’m currently learning **Next.js & Stripe Integration**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **athik.codes@gmail.com**
