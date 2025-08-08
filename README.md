@@ -4,12 +4,12 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Athik Hossain</h1>
+<h1 align="center">Hi, I'm Athik Hossain</h1>
 <h3 align="center">💻 Frontend Developer | MERN Stack Developer | Passionate Coder</h3>
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 - 🔭 I’m currently working on a **Tourism Web App**
 - 🌱 I’m currently learning **Next.js & Stripe Integration**
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ My Skills
+##  My Skills
 
 ### 🖥️ Frontend
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
@@ -59,7 +59,7 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/athikcodes/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="https://www.linkedin.com/in/athik-rahman/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat" /></a>
   <a href="mailto:athik.codes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/athikcodes"><img src="https://img.shields.io/badge/-GitHub-000?logo=github" /></a>
 </p>
