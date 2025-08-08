@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://your-banner-url-here.com/banner.jpg](https://i.ibb.co.com/wnzJQQ5/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-1.png)" alt="Banner" />
+  <img src="https://i.ibb.co/wnzJQQ5/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-1.png" alt="Banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Athik Hossain</h1>
 <h3 align="center">💻 Frontend Developer | MERN Stack Developer | Passionate Coder</h3>
